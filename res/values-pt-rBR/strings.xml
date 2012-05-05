@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Log Watcher</string>
+    <string name="get_log">Gerar Log!</string>
+    <string name="send_email">Enviar por e-mail</string>
+    <string name="last_log_label">Último arquivo de log gerado em:</string>
+    <string name="last_log_empty">--- nenhum arquivo de log gerado ! --- </string>
+    <string name="toast_no_file">Não há arquivo de log para ser enviado!</string>
+    <string name="toast_title_wait">Aguarde…</string>
+    <string name="toast_reading_device_log">Lendo o LogCat do dispositivo…</string>
+    <string name="toast_saved_1">O arquivo de log </string>
+    <string name="toast_saved_2">foi salvo!</string>
+    <string name="toast_error_saving">Erro salvando o arquivo de log no SDCard !</string>
+    <string name="email_subject">LogWatch - Arquivo com LogCat</string>
+    <string name="email_text">Arquivo de log anexado:</string>
+    <string name="email_chooser">Enviando LogCat…</string>
+</resources>
